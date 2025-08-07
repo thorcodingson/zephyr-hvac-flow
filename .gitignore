@@ -35,3 +35,7 @@ dist/
 ### Secrets ###
 **/secrets.*
 **/config/credentials.*
+
+# Arduino project
+/arduino/*
+!/arduino/*.example.ino
